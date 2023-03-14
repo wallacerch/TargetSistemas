@@ -1,0 +1,15 @@
+W:\study\projects\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.exe
+W:\study\projects\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.deps.json
+W:\study\projects\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.runtimeconfig.json
+W:\study\projects\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.dll
+W:\study\projects\TargetSistemas\TargetSistemas\bin\Debug\net6.0\TargetSistemas.pdb
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.csproj.AssemblyReference.cache
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.AssemblyInfoInputs.cache
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.AssemblyInfo.cs
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.csproj.CoreCompileInputs.cache
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.dll
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\refint\TargetSistemas.dll
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.pdb
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\TargetSistemas.genruntimeconfig.cache
+W:\study\projects\TargetSistemas\TargetSistemas\obj\Debug\net6.0\ref\TargetSistemas.dll
